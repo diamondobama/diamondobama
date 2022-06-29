@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Diamond's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamondobama&show_icons=true&theme=radical)](https://github.com/diamondobama/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamondobama&layout=compact)](https://github.com/diamondobama/github-readme-stats)
+
+[![Diamond's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diamondobama)](https://github.com/diamondobama/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/d119899d-1a83-4c4d-84bb-63d07b7519bb.svg)](https://wakatime.com/@d119899d-1a83-4c4d-84bb-63d07b7519bb)
+
 <!--
 **diamondobama/diamondobama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
