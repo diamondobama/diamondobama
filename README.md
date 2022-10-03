@@ -8,6 +8,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/d119899d-1a83-4c4d-84bb-63d07b7519bb.svg)](https://wakatime.com/@d119899d-1a83-4c4d-84bb-63d07b7519bb)
 
+[![@diamonddev's Holopin board](https://holopin.io/api/user/board?user=diamonddev)](https://holopin.io/@diamonddev)
 <!--
 **diamondobama/diamondobama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
